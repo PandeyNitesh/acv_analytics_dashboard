@@ -82,3 +82,4 @@ The frontend will start on `http://localhost:3000`.
 | Data     | JSON (mocked structured input)                       |
 
 ## 📷 Sample UI Screens
+<img width="621" alt="image" src="https://github.com/user-attachments/assets/b71b271f-b15b-4e2f-8945-245bc3878795" />
