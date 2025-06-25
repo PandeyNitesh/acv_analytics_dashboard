@@ -1,4 +1,3 @@
-// src/components/ACVTable.tsx
 import React from "react";
 import {
   Table,
@@ -128,7 +127,6 @@ export const ACVTable: React.FC<Props> = ({ data, categoryKey }) => {
               </TableCell>
             </TableRow>
           ))}
-          {/* Grand Total Row */}
           <TableRow>
             <TableCell>
               <strong>Total</strong>

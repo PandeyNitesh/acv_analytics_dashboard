@@ -1,4 +1,3 @@
-// src/pages/Dashboard.tsx
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { Container, Grid, Typography, Paper } from "@mui/material";
@@ -54,8 +53,6 @@ export default function Dashboard() {
           </Paper>
         </Grid>
       </Grid>
-
-      {/* You can replicate similar blocks for team, account_industry, acv_range */}
     </Container>
   );
 }
